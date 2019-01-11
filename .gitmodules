@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/FairyGUI"]
+	path = Assets/Plugins/FairyGUI
+	url = https://github.com/fairygui/FairyGUI-unity.git

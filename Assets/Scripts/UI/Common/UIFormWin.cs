@@ -104,7 +104,7 @@ public class UIFormWin : Window, IUIForm
 
     public void Close()
     {
-        GameEntry.UI.CloseUIForm(this, UserData);
+        GameEntry.UI.CloseUIForm(SerialId, UserData);
     }
 
     protected override void OnShown()

@@ -1,6 +1,3 @@
-[submodule "Assets/Plugins/FairyGUI"]
-	path = Assets/Plugins/FairyGUI
-	url = https://github.com/fairygui/FairyGUI-unity.git
-[submodule "Assets/Plugins/UnityGameFramework"]
-	path = Assets/Plugins/UnityGameFramework
-	url = https://github.com/EllanJiang/UnityGameFramework.git
+[submodule "Assets/Core"]
+	path = Assets/Core
+	url = https://github.com/source2728/Core.git
